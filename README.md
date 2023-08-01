@@ -6,7 +6,7 @@
 
 - 🙋‍♀️ I'm Chathuri. I'm a PhD student at University of Florida
 - 😍 I'm really interested in Natural Language Processing (NLP) research and applications. 
-- 🔭 My current research heavily deals with applications of Abstract Meaning Representations (AMR)
+- 🔭 My current research also heavily deals with applications of Abstract Meaning Representations (AMR) which is a meaning representation formalism in NLP.
 - 🪄 Data visualization is yet another topic that I'm drawn to, but I'm a newbie. When I have time, I like to create visualizations related to books 🔖 and music 🎧.
 <!--- 🌱 I’m currently learning ..-->
 <!--- 👯 I’m looking to collaborate on ...-->
